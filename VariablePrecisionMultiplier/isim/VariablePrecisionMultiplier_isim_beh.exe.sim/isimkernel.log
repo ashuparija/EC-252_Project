@@ -1,0 +1,30 @@
+Command line:
+   VariablePrecisionMultiplier_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  56609
+
+Wed Mar 29 09:31:27 2017
+
+
+ Elaboration Time: 0.04 sec
+
+ Current Memory Usage: 207.942 Meg
+
+ Total Signals          : 3157
+ Total Nets             : 4661
+ Total Signal Drivers   : 1761
+ Total Blocks           : 415
+ Total Primitive Blocks : 333
+ Total Processes        : 1806
+ Total Traceable Variables  : 93
+ Total Scalar Nets and Variables : 6599
+Total Line Count : 685
+Total Line Count : 685
+
+ Total Simulation Time: 0.1 sec
+
+ Current Memory Usage: 283.443 Meg
+
+Wed Mar 29 09:33:10 2017
+

@@ -1,0 +1,80 @@
+Release 14.7 - xst P.20131013 (lin64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> 
+Parameter TMPDIR set to /media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.05 secs
+ 
+--> 
+Parameter xsthdpdir set to /media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.05 secs
+ 
+--> 
+WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "CarryLookaheadAdder_4Bit.v" in library work
+Compiling verilog file "CarryLookaheadAdder_8Bit.v" in library work
+Module <CarryLookaheadAdder_4Bit> compiled
+Compiling verilog file "CarryLookaheadAdder_16Bit.v" in library work
+Module <CarryLookaheadAdder_8Bit> compiled
+Compiling verilog file "CarryLookaheadAdder_32Bit.v" in library work
+Module <CarryLookaheadAdder_16Bit> compiled
+Compiling verilog file "adder33bit.v" in library work
+Module <CarryLookaheadAdder_32Bit> compiled
+Module <FullAdder> compiled
+Module <adder8bit> compiled
+Module <adder9bit> compiled
+Compiling verilog file "SignExtend9Bits_8Bits.v" in library work
+Module <adder33bit> compiled
+Compiling verilog file "SignExtend64Bits_48Bits.v" in library work
+Module <SignExtend9Bits_8Bits> compiled
+Compiling verilog file "SignExtend48Bits_40Bits.v" in library work
+Module <SignExtend64Bits_48Bits> compiled
+Compiling verilog file "SignExtend32Bits_8Bits.v" in library work
+Module <SignExtend48Bits_40Bits> compiled
+Compiling verilog file "SignExtend32Bits_16Bits.v" in library work
+Module <SignExtend32Bits_8Bits> compiled
+Compiling verilog file "ShiftLeft8Bits_40Bits.v" in library work
+Module <SignExtend32Bits_16Bits> compiled
+Compiling verilog file "ShiftLeft16Bits_48Bits.v" in library work
+Module <ShiftLeft8Bits_40Bits> compiled
+Compiling verilog file "MUX_64Bits.v" in library work
+Module <ShiftLeft16Bits_48Bits> compiled
+Compiling verilog file "MUX_32Bits.v" in library work
+Module <MUX_64Bits> compiled
+Compiling verilog file "Multiplier_32X9.v" in library work
+Module <MUX_32Bits> compiled
+Compiling verilog file "ControlUnit.v" in library work
+Module <Multiplier_32X9> compiled
+Compiling verilog file "CarryLookaheadAdder_64Bit.v" in library work
+Module <ControlUnit> compiled
+Compiling verilog file "CarryLookaheadAdder_48Bit.v" in library work
+Module <CarryLookaheadAdder_64Bit> compiled
+Compiling verilog file "VariablePrecisionMultiplier.v" in library work
+Module <CarryLookaheadAdder_48Bit> compiled
+Module <VariablePrecisionMultiplier> compiled
+No errors in compilation
+Analysis of file <"VariablePrecisionMultiplier.prj"> succeeded.
+ 
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.10 secs
+ 
+--> 
+
+
+Total memory usage is 470268 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

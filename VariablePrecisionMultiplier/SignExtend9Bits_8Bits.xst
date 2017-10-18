@@ -1,0 +1,5 @@
+set -tmpdir "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/xst/projnav.tmp"
+set -xsthdpdir "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/xst"
+elaborate
+-ifn SignExtend9Bits_8Bits.prj
+-ifmt mixed

@@ -1,0 +1,73 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/TestBench_VPAC_isim_beh.exe" -prj "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/TestBench_VPAC_beh.prj" "work.TestBench_VPAC" "work.glbl" 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/CarryLookaheadAdder_4Bit.v" into library work
+Analyzing Verilog file "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/CarryLookaheadAdder_8Bit.v" into library work
+Analyzing Verilog file "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/CarryLookaheadAdder_16Bit.v" into library work
+Analyzing Verilog file "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/CarryLookaheadAdder_32Bit.v" into library work
+Analyzing Verilog file "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/adder33bit.v" into library work
+Analyzing Verilog file "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/SignExtend9Bits_8Bits.v" into library work
+Analyzing Verilog file "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/SignExtend64Bits_48Bits.v" into library work
+Analyzing Verilog file "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/SignExtend48Bits_40Bits.v" into library work
+Analyzing Verilog file "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/SignExtend32Bits_8Bits.v" into library work
+Analyzing Verilog file "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/SignExtend32Bits_16Bits.v" into library work
+Analyzing Verilog file "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/ShiftLeft8Bits_40Bits.v" into library work
+Analyzing Verilog file "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/ShiftLeft16Bits_48Bits.v" into library work
+Analyzing Verilog file "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/MUX_64Bits.v" into library work
+Analyzing Verilog file "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/MUX_32Bits.v" into library work
+Analyzing Verilog file "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/Multiplier_32X9.v" into library work
+WARNING:HDLCompiler:327 - "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/Multiplier_32X9.v" Line 110: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/Multiplier_32X9.v" Line 124: Concatenation with unsized literal; will interpret as 32 bits
+Analyzing Verilog file "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/ControlUnit.v" into library work
+Analyzing Verilog file "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/CarryLookaheadAdder_64Bit.v" into library work
+Analyzing Verilog file "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/CarryLookaheadAdder_48Bit.v" into library work
+Analyzing Verilog file "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/VariablePrecisionMultiplier.v" into library work
+Analyzing Verilog file "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/TestBench_VPAC.v" into library work
+Analyzing Verilog file "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:189 - "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/VariablePrecisionMultiplier.v" Line 74: Size mismatch in connection of port <Signed>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:327 - "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/Multiplier_32X9.v" Line 110: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/Multiplier_32X9.v" Line 124: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:189 - "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/Multiplier_32X9.v" Line 132: Size mismatch in connection of port <Cin>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/Multiplier_32X9.v" Line 133: Size mismatch in connection of port <Cin>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/VariablePrecisionMultiplier.v" Line 72: Size mismatch in connection of port <Signed>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/VariablePrecisionMultiplier.v" Line 78: Size mismatch in connection of port <Cin>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/VariablePrecisionMultiplier.v" Line 79: Size mismatch in connection of port <Cin>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/VariablePrecisionMultiplier.v" Line 83: Size mismatch in connection of port <Signed>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "/media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/VariablePrecisionMultiplier.v" Line 87: Size mismatch in connection of port <Cin>. Formal port size is 1-bit while actual signal size is 32-bit.
+Completed static elaboration
+Fuse Memory Usage: 94960 KB
+Fuse CPU Usage: 1240 ms
+Compiling module ControlUnit
+Compiling module SignExtend9Bits_8Bits
+Compiling module SignExtend32Bits_16Bits
+Compiling module SignExtend32Bits_8Bits
+Compiling module MUX_32Bits
+Compiling module FullAdder
+Compiling module adder8bit
+Compiling module adder9bit
+Compiling module adder33bit
+Compiling module Multiplier_32X9
+Compiling module ShiftLeft8Bits_40Bits
+Compiling module SignExtend48Bits_40Bits
+Compiling module CarryLookaheadAdder_4Bit
+Compiling module CarryLookaheadAdder_8Bit
+Compiling module CarryLookaheadAdder_16Bit
+Compiling module CarryLookaheadAdder_32Bit
+Compiling module CarryLookaheadAdder_48Bit
+Compiling module ShiftLeft16Bits_48Bits
+Compiling module SignExtend64Bits_48Bits
+Compiling module CarryLookaheadAdder_64Bit
+Compiling module MUX_64Bits
+Compiling module VariablePrecisionMultiplier
+Compiling module TestBench_VPAC
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 24 Verilog Units
+Built simulation executable /media/akilarif/Akil/Studies/Semester 4/EC-252 Xilinx Projects/VariablePrecisionMultiplier/TestBench_VPAC_isim_beh.exe
+Fuse Memory Usage: 655456 KB
+Fuse CPU Usage: 1290 ms
+GCC CPU Usage: 120 ms

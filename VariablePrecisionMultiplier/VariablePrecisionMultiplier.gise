@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="VariablePrecisionMultiplier.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_LSO" xil_pn:name=".lso"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="CarryLookaheadAdder_16Bit.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="CarryLookaheadAdder_16Bit.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="CarryLookaheadAdder_16Bit.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="CarryLookaheadAdder_16Bit_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="CarryLookaheadAdder_32Bit.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="CarryLookaheadAdder_32Bit.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="CarryLookaheadAdder_32Bit.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="CarryLookaheadAdder_32Bit_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="CarryLookaheadAdder_48Bit.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="CarryLookaheadAdder_48Bit.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="CarryLookaheadAdder_48Bit.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="CarryLookaheadAdder_48Bit_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="CarryLookaheadAdder_4Bit.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="CarryLookaheadAdder_4Bit.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="CarryLookaheadAdder_4Bit.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="CarryLookaheadAdder_4Bit_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="CarryLookaheadAdder_64Bit.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="CarryLookaheadAdder_64Bit.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="CarryLookaheadAdder_64Bit.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="CarryLookaheadAdder_64Bit_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="CarryLookaheadAdder_8Bit.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="CarryLookaheadAdder_8Bit.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="CarryLookaheadAdder_8Bit.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="CarryLookaheadAdder_8Bit_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ControlUnit.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ControlUnit.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ControlUnit.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="ControlUnit_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MUX.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="MUX.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="MUX.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MUX_32Bits.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="MUX_32Bits.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="MUX_32Bits.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="MUX_32Bits_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MUX_64Bits.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="MUX_64Bits.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="MUX_64Bits.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="MUX_64Bits_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="MUX_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Multiplier_32X9.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Multiplier_32X9.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Multiplier_32X9.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Multiplier_32X9_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ShiftLeft16Bits_48Bits.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ShiftLeft16Bits_48Bits.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ShiftLeft16Bits_48Bits.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="ShiftLeft16Bits_48Bits_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ShiftLeft8Bits_40Bits.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ShiftLeft8Bits_40Bits.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ShiftLeft8Bits_40Bits.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="ShiftLeft8Bits_40Bits_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="SignExtend32Bits_16Bits.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="SignExtend32Bits_16Bits.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="SignExtend32Bits_16Bits.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="SignExtend32Bits_16Bits_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="SignExtend32Bits_16Bits_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="SignExtend32Bits_16Bits_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="SignExtend32Bits_8Bits.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="SignExtend32Bits_8Bits.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="SignExtend32Bits_8Bits.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="SignExtend32Bits_8Bits_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="SignExtend48Bits_40Bits.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="SignExtend48Bits_40Bits.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="SignExtend48Bits_40Bits.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="SignExtend48Bits_40Bits_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="SignExtend64Bits_48Bits.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="SignExtend64Bits_48Bits.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="SignExtend64Bits_48Bits.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="SignExtend64Bits_48Bits_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="SignExtend9Bits_8Bits.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="SignExtend9Bits_8Bits.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="SignExtend9Bits_8Bits.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="SignExtend9Bits_8Bits_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="SignExtend_8Bits.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="SignExtend_8Bits.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="SignExtend_8Bits.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="SignExtend_8Bits_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="SignExtend_8Bits_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="SignExtend_8Bits_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="SignExtend_8Bits_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TestBench_VPAC_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="TestBench_VPAC_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="TestBench_VPAC_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TestBench_VPAC_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="VariablePrecisionMultiplier.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="VariablePrecisionMultiplier.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="VariablePrecisionMultiplier.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="VariablePrecisionMultiplier_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="adder32bit.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="adder32bit.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="adder32bit.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="adder32bit_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="adder33bit.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="adder33bit.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="adder33bit.xst"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1490418879" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1490418879">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1490761146" xil_pn:in_ck="-3388766662512878524" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1490761146">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="CarryLookaheadAdder_16Bit.v"/>
+      <outfile xil_pn:name="CarryLookaheadAdder_32Bit.v"/>
+      <outfile xil_pn:name="CarryLookaheadAdder_48Bit.v"/>
+      <outfile xil_pn:name="CarryLookaheadAdder_4Bit.v"/>
+      <outfile xil_pn:name="CarryLookaheadAdder_64Bit.v"/>
+      <outfile xil_pn:name="CarryLookaheadAdder_8Bit.v"/>
+      <outfile xil_pn:name="ControlUnit.v"/>
+      <outfile xil_pn:name="MUX_32Bits.v"/>
+      <outfile xil_pn:name="MUX_64Bits.v"/>
+      <outfile xil_pn:name="Multiplier_32X9.v"/>
+      <outfile xil_pn:name="ShiftLeft16Bits_48Bits.v"/>
+      <outfile xil_pn:name="ShiftLeft8Bits_40Bits.v"/>
+      <outfile xil_pn:name="SignExtend32Bits_16Bits.v"/>
+      <outfile xil_pn:name="SignExtend32Bits_8Bits.v"/>
+      <outfile xil_pn:name="SignExtend48Bits_40Bits.v"/>
+      <outfile xil_pn:name="SignExtend64Bits_48Bits.v"/>
+      <outfile xil_pn:name="SignExtend9Bits_8Bits.v"/>
+      <outfile xil_pn:name="TestBench_VPAC.v"/>
+      <outfile xil_pn:name="VariablePrecisionMultiplier.v"/>
+      <outfile xil_pn:name="adder33bit.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1490760809" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-3064259200238070496" xil_pn:start_ts="1490760809">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1490760809" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-8625091044477483678" xil_pn:start_ts="1490760809">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1490630760" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-1543858286961027175" xil_pn:start_ts="1490630760">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1490761148" xil_pn:in_ck="-3388766662512878524" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1490761148">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="CarryLookaheadAdder_16Bit.v"/>
+      <outfile xil_pn:name="CarryLookaheadAdder_32Bit.v"/>
+      <outfile xil_pn:name="CarryLookaheadAdder_48Bit.v"/>
+      <outfile xil_pn:name="CarryLookaheadAdder_4Bit.v"/>
+      <outfile xil_pn:name="CarryLookaheadAdder_64Bit.v"/>
+      <outfile xil_pn:name="CarryLookaheadAdder_8Bit.v"/>
+      <outfile xil_pn:name="ControlUnit.v"/>
+      <outfile xil_pn:name="MUX_32Bits.v"/>
+      <outfile xil_pn:name="MUX_64Bits.v"/>
+      <outfile xil_pn:name="Multiplier_32X9.v"/>
+      <outfile xil_pn:name="ShiftLeft16Bits_48Bits.v"/>
+      <outfile xil_pn:name="ShiftLeft8Bits_40Bits.v"/>
+      <outfile xil_pn:name="SignExtend32Bits_16Bits.v"/>
+      <outfile xil_pn:name="SignExtend32Bits_8Bits.v"/>
+      <outfile xil_pn:name="SignExtend48Bits_40Bits.v"/>
+      <outfile xil_pn:name="SignExtend64Bits_48Bits.v"/>
+      <outfile xil_pn:name="SignExtend9Bits_8Bits.v"/>
+      <outfile xil_pn:name="TestBench_VPAC.v"/>
+      <outfile xil_pn:name="VariablePrecisionMultiplier.v"/>
+      <outfile xil_pn:name="adder33bit.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1490761150" xil_pn:in_ck="-3388766662512878524" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-6330434952015425503" xil_pn:start_ts="1490761148">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="TestBench_VPAC_beh.prj"/>
+      <outfile xil_pn:name="TestBench_VPAC_isim_beh.exe"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1490778244" xil_pn:in_ck="-2717106696681831431" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="8068503105086448388" xil_pn:start_ts="1490778244">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="TestBench_VPAC_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+    </transform>
+  </transforms>
+
+</generated_project>

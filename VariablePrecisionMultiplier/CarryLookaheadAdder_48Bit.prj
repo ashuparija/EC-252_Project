@@ -1,0 +1,5 @@
+verilog work "CarryLookaheadAdder_4Bit.v"
+verilog work "CarryLookaheadAdder_8Bit.v"
+verilog work "CarryLookaheadAdder_16Bit.v"
+verilog work "CarryLookaheadAdder_32Bit.v"
+verilog work "CarryLookaheadAdder_48Bit.v"

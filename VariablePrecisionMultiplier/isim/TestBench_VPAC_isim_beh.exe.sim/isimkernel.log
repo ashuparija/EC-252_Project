@@ -1,0 +1,29 @@
+Command line:
+   TestBench_VPAC_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  55485
+
+Wed Mar 29 14:34:09 2017
+
+
+ Elaboration Time: 0.06 sec
+
+ Current Memory Usage: 208.024 Meg
+
+ Total Signals          : 3158
+ Total Nets             : 4661
+ Total Signal Drivers   : 1767
+ Total Blocks           : 416
+ Total Primitive Blocks : 333
+ Total Processes        : 1813
+ Total Traceable Variables  : 99
+ Total Scalar Nets and Variables : 6667
+Total Line Count : 700
+
+ Total Simulation Time: 0.12 sec
+
+ Current Memory Usage: 283.525 Meg
+
+Wed Mar 29 15:28:03 2017
+
